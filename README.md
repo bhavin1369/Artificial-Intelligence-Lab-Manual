@@ -144,4 +144,21 @@ Introduces reinforcement learning concepts where an agent learns through interac
 
 ---
 
-## 📂 Repository Structure
+## 📌 Notes
+
+- This repository is intended for academic and learning purposes.  
+- Code is written for clarity and understanding.  
+- Some experiments are excluded as they are not completed.  
+
+---
+
+## 📄 License
+
+This project is open for educational use. You are free to use and modify the code for learning and academic purposes.
+
+---
+
+## 👨‍💻 Author
+
+**Bhavin Muchhala**  
+B.Tech Student | AI & ML Enthusiast | Aspiring SDE  
